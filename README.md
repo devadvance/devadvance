@@ -1,5 +1,3 @@
-# devadvance
-
 * Website: https://mattj.io
 * GitHub: https://github.com/devadvance
 * Medium: https://medium.com/@mattjoseph
